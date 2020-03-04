@@ -1,1 +1,2 @@
-dev=dev
+server:
+  port:8080
